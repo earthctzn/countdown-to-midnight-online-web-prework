@@ -1,9 +1,9 @@
 #write your code here
 
 def countdown
-time = 
-while x > 0
-  puts "#{x} SECOND(S)!"
-  x -= 1
+time = 12
+while time > 0
+  puts "#{time} SECOND(S)!"
+  time -= 1
 end
 end
